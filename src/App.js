@@ -7,7 +7,6 @@ import Board from './components/Board';
 import RestartGame from './components/RestartGame';
 import styled from 'styled-components';
 
-
 const BoardGame = styled.div`
     height: 100vh;
     display: flex;

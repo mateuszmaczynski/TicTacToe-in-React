@@ -18,7 +18,7 @@
     "start": "webpack-dev-server",
     "build": "webpack"
   },
-  "author": "Mateusz Maczynski",
+  "author": "Mateusz  Maczynski",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.3.3",
     "@babel/plugin-proposal-decorators": "^7.3.0",
